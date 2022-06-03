@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "56591236981",
+    "project_id": "videocallv1-5673b",
+    "storage_bucket": "videocallv1-5673b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56591236981:android:24c4e66dfb4099464bdd3c",
+        "android_client_info": {
+          "package_name": "com.sylvanus.videocallv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56591236981-pg28spbbr8fc0a30mjhc2jth12j82r51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sylvanus.videocallv1",
+            "certificate_hash": "5de0c5932a4ea0453bc8eecc775f7498fcdd876e"
+          }
+        },
+        {
+          "client_id": "56591236981-10ibg5bi120ph26l4n87p45be33n2o24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiHBse6T0ucDDYE1jqK0spb13BmE1w9kU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56591236981-10ibg5bi120ph26l4n87p45be33n2o24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
